@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aijaz-hax/registration-data/static/css/main.d5abac77.css",
+    "main.js": "/aijaz-hax/registration-data/static/js/main.ee6c43d1.js",
+    "static/js/787.338366e2.chunk.js": "/aijaz-hax/registration-data/static/js/787.338366e2.chunk.js",
+    "static/media/logo.svg": "/aijaz-hax/registration-data/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aijaz-hax/registration-data/index.html",
+    "main.d5abac77.css.map": "/aijaz-hax/registration-data/static/css/main.d5abac77.css.map",
+    "main.ee6c43d1.js.map": "/aijaz-hax/registration-data/static/js/main.ee6c43d1.js.map",
+    "787.338366e2.chunk.js.map": "/aijaz-hax/registration-data/static/js/787.338366e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5abac77.css",
+    "static/js/main.ee6c43d1.js"
+  ]
+}
